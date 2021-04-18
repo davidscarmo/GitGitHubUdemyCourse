@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+teste do pull
+
+pull test
+>>>>>>> 404529ebb0f28d5a652647887e9fb945e86d4da9
